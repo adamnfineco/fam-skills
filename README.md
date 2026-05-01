@@ -14,6 +14,7 @@ Skills are agent-agnostic — they work with OpenCode, Claude Code, or any runti
 
 | Skill | Description |
 |-------|-------------|
+| [figma-to-web](./figma-to-web/) | Implement web interfaces from Figma designs with 1:1 visual fidelity |
 | [figma-to-swift](./figma-to-swift/) | Implement iOS SwiftUI interfaces from Figma designs with 1:1 visual fidelity |
 
 ## Skill structure
